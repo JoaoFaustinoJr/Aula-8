@@ -1,0 +1,12 @@
+h2 {color: blue;
+}
+
+body {background-color: #00aa77
+}
+
+h3 { border-width:4px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 4px;
+	margin: 100px;
+  }
